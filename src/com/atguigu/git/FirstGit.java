@@ -6,5 +6,6 @@ public class FirstGit {
 	System.out.println("你要干啥？");
 	
 	System.out.println("你要干啥？");
+	System.out.println("你要干啥？");
 	}
 }
